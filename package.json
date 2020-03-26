@@ -68,5 +68,8 @@
     "lib",
     "es"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {}
 }
